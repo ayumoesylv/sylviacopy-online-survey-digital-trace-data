@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sylviacopy-online-survey-digital-trace-data/static/css/main.b3c614e2.chunk.css",
-    "main.js": "/sylviacopy-online-survey-digital-trace-data/static/js/main.183002ea.chunk.js",
-    "main.js.map": "/sylviacopy-online-survey-digital-trace-data/static/js/main.183002ea.chunk.js.map",
-    "runtime-main.js": "/sylviacopy-online-survey-digital-trace-data/static/js/runtime-main.f1d3e0b4.js",
-    "runtime-main.js.map": "/sylviacopy-online-survey-digital-trace-data/static/js/runtime-main.f1d3e0b4.js.map",
-    "static/css/2.4c34b247.chunk.css": "/sylviacopy-online-survey-digital-trace-data/static/css/2.4c34b247.chunk.css",
-    "static/js/2.37ff3759.chunk.js": "/sylviacopy-online-survey-digital-trace-data/static/js/2.37ff3759.chunk.js",
-    "static/js/2.37ff3759.chunk.js.map": "/sylviacopy-online-survey-digital-trace-data/static/js/2.37ff3759.chunk.js.map",
+    "main.css": "/sylviacopy-online-survey-digital-trace-data/static/css/main.a6fe802e.chunk.css",
+    "main.js": "/sylviacopy-online-survey-digital-trace-data/static/js/main.050520b6.chunk.js",
+    "main.js.map": "/sylviacopy-online-survey-digital-trace-data/static/js/main.050520b6.chunk.js.map",
+    "runtime-main.js": "/sylviacopy-online-survey-digital-trace-data/static/js/runtime-main.a4485f45.js",
+    "runtime-main.js.map": "/sylviacopy-online-survey-digital-trace-data/static/js/runtime-main.a4485f45.js.map",
+    "static/css/2.ecd857ce.chunk.css": "/sylviacopy-online-survey-digital-trace-data/static/css/2.ecd857ce.chunk.css",
+    "static/js/2.b5644af5.chunk.js": "/sylviacopy-online-survey-digital-trace-data/static/js/2.b5644af5.chunk.js",
+    "static/js/2.b5644af5.chunk.js.map": "/sylviacopy-online-survey-digital-trace-data/static/js/2.b5644af5.chunk.js.map",
     "index.html": "/sylviacopy-online-survey-digital-trace-data/index.html",
-    "static/css/2.4c34b247.chunk.css.map": "/sylviacopy-online-survey-digital-trace-data/static/css/2.4c34b247.chunk.css.map",
-    "static/css/main.b3c614e2.chunk.css.map": "/sylviacopy-online-survey-digital-trace-data/static/css/main.b3c614e2.chunk.css.map",
-    "static/js/2.37ff3759.chunk.js.LICENSE.txt": "/sylviacopy-online-survey-digital-trace-data/static/js/2.37ff3759.chunk.js.LICENSE.txt"
+    "static/css/2.ecd857ce.chunk.css.map": "/sylviacopy-online-survey-digital-trace-data/static/css/2.ecd857ce.chunk.css.map",
+    "static/css/main.a6fe802e.chunk.css.map": "/sylviacopy-online-survey-digital-trace-data/static/css/main.a6fe802e.chunk.css.map",
+    "static/js/2.b5644af5.chunk.js.LICENSE.txt": "/sylviacopy-online-survey-digital-trace-data/static/js/2.b5644af5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1d3e0b4.js",
-    "static/css/2.4c34b247.chunk.css",
-    "static/js/2.37ff3759.chunk.js",
-    "static/css/main.b3c614e2.chunk.css",
-    "static/js/main.183002ea.chunk.js"
+    "static/js/runtime-main.a4485f45.js",
+    "static/css/2.ecd857ce.chunk.css",
+    "static/js/2.b5644af5.chunk.js",
+    "static/css/main.a6fe802e.chunk.css",
+    "static/js/main.050520b6.chunk.js"
   ]
 }
